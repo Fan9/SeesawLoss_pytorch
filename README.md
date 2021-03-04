@@ -14,6 +14,7 @@ loss = loss_fn(logits, label)
 `preds`: logits
 
 `label`: not one-hot label
+If there is any problem with my implementation, please let me know. thanks!
 
 ## Citation
 
