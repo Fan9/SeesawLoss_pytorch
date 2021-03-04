@@ -5,7 +5,7 @@ This implementation is based on [bamps53](https://github.com/bamps53)/**[SeesawL
 ## useage
 
 ```python
-from loss_utils import DistibutionAgnosticSeesawLossWithLogits
+from seesawloss import DistibutionAgnosticSeesawLossWithLogits
 num_labels = 10
 loss_fn = DistibutionAgnosticSeesawLossWithLogits(num_labels=num_labels)
 loss = loss_fn(logits, label)
