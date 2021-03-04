@@ -1,6 +1,6 @@
 # SeesawLoss_pytorch
 
-This implementation is based on [bamps53](https://github.com/bamps53)/**[SeesawLoss](https://github.com/bamps53/SeesawLoss)**. His implementation only involves mitigation factors, no compensation factors.I implemented this part.
+This implementation is based on [bamps53](https://github.com/bamps53)/**[SeesawLoss](https://github.com/bamps53/SeesawLoss)**. His implementation only involves mitigation factor, no compensation factor.I implemented this part.
 
 ## useage
 
