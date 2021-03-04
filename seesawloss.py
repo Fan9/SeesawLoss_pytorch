@@ -79,7 +79,7 @@ class DistibutionAgnosticSeesawLossWithLogits(nn.Module):
        Set to 0.8 for default following the paper.
     q: Parameter for Compensation Factor
        Set to 2 for default following the paper.
-    num_labels: Class counts
+    num_labels: Class nums
     """
 
     def __init__(self, p: float = 0.8, q: float = 2, num_labels=2):
